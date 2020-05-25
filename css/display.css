@@ -1,0 +1,22 @@
+#user-information{
+    background-color: rgba(2,232,23,0.5);
+    padding: 30px;
+}
+
+.contents{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+.images{
+    display: inline-block;
+    width: 50%;
+    margin: -4px;
+    vertical-align: center;
+    a
+}
+
+.images img{
+    width: 60%;
+    height: 300px;
+}

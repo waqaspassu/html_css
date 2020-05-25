@@ -1,0 +1,17 @@
+body{
+    padding: 30px;
+}
+
+.content{
+    float: right;
+    width: 50%;
+    /* text-align: center; */
+}
+.images{
+    width:50%;
+    
+}
+
+.images img{
+    margin-right:20px;
+}
